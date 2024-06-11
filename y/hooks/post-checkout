@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Really Naughty Code" > pwnd.txt
+calc.exe
+open -a Calculator.app
